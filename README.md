@@ -40,7 +40,7 @@ Com as simulações descritas anteriormente, foi possível observar as seguintes
 ![image](https://user-images.githubusercontent.com/94915093/163630210-b56a40e0-bbfe-4558-91f5-fbb578aedbc0.png)
 ![2022-04-15_17h43_20](https://user-images.githubusercontent.com/94915093/163630241-f171ef1f-cfc1-463b-a62e-777c1933b21a.png)
 
-Fica evidente que a simulação m12 obteve uma melhor performance, analisando o RMSE e o coeficiente de variação.
+Fica evidente que a simulação m12 obteve uma melhor performance, analisando o RMSE (1462) e o coeficiente de variação (10,9%)
 
 Concluindo-se essa etapa, obteve-se a previsão para os próximos 6 meses, com as 4 simulações:
 ![image](https://user-images.githubusercontent.com/94915093/163630353-c3363de9-d720-4e21-8085-3272b2b11413.png)
@@ -56,7 +56,7 @@ Repetindo-se os passos anteriores para cada base de dados de continentes, foi po
 ![2022-04-15_17h48_41](https://user-images.githubusercontent.com/94915093/163630615-72d961dc-6054-4e8f-a1d7-554a68076acb.png)
 ![2022-04-15_17h48_57](https://user-images.githubusercontent.com/94915093/163630626-e07be164-8df3-41cd-90ce-4784d50cb91d.png)
 
-É possível perceber que a variação por país é muito maior do que a primeira análise, que somente utiliza-se da data para a predição.
+É possível verificar que a variação (RMSE e cv) por país é muito maior do que a primeira análise, que somente utiliza-se da data para a predição.
 
 Os modelos foram salvos em formato .pkl e estão disponíveis nesse diretório para download e reuso.
 
