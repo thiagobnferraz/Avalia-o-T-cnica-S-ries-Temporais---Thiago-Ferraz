@@ -56,7 +56,9 @@ Repetindo-se os passos anteriores para cada base de dados de continentes, foi po
 ![2022-04-15_17h48_41](https://user-images.githubusercontent.com/94915093/163630615-72d961dc-6054-4e8f-a1d7-554a68076acb.png)
 ![2022-04-15_17h48_57](https://user-images.githubusercontent.com/94915093/163630626-e07be164-8df3-41cd-90ce-4784d50cb91d.png)
 
-É possível verificar que a variação (RMSE e cv) por país é muito maior do que a primeira análise, que somente utiliza-se da data para a predição.
+É possível verificar que a variação (RMSE e cv) por continente é muito maior do que a primeira análise, que somente utiliza-se da data para a predição. Isso se deve por fatores específicos de cada perfil de viajante e deve ser posteriormente investigado para obtenção de um modelo mais robusto.
+
+Pontos de melhora para esse projeto podem ser viabilizados com adição de mais bases de dados e informações relevantes, como por exemplo, feriados nos países, temporadas de festas, eventos esportivos (copa do mundo, olimpíadas, campeonatos de surf, etc), eventos de entretenimento (shows, festivais musicais, atrações turísticas), entre outros eventos relevantes no período.
 
 Os modelos foram salvos em formato .pkl e estão disponíveis nesse diretório para download e reuso.
 
