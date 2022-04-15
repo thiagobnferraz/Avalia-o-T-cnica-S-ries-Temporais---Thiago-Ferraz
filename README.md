@@ -1,3 +1,11 @@
+Avaliação Técnica – Séries Temporais
+
+O objetivo desse projeto é avaliar seus conhecimentos na análise e modelagem de séries temporais, como tratamento de dados, descoberta de padrões, e a criação e validação de modelos.
+
+Objetivo
+O objetivo é prever o comportamento da quantidade total de passageiros saindo do país (`Passengers In`).
+
+
 Após tratamento de dados análise de decomposição de série temporal do arquivo international_airline_activity_table1_2009tocurrent_0122.xlsx, foi possível obter as seguintes conclusões e observações:
 
 ![image](https://user-images.githubusercontent.com/94915093/163629570-e181f9a9-e5cc-4b28-adf3-1166eb40ae0d.png)
