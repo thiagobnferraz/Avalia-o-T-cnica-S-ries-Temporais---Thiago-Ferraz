@@ -34,7 +34,7 @@ m=52
 - SARIMAX(3, 1, 2)
 
 
-Definiu-se a base de treino de até 6 meses antes do último registro e a base de treino, os últimos 6 meses de registro.
+Definiu-se a base de treino de até 6 meses antes do último registro e para a base de teste, os últimos 6 meses de registro.
 
 Com as simulações descritas anteriormente, foi possível observar as seguintes predições:
 ![image](https://user-images.githubusercontent.com/94915093/163630210-b56a40e0-bbfe-4558-91f5-fbb578aedbc0.png)
