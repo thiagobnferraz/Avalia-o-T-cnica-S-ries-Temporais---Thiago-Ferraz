@@ -19,7 +19,7 @@ Após teste de estacionariedade, verificou-se a não-estacionariedade da série 
 ![2022-04-15_17h38_22](https://user-images.githubusercontent.com/94915093/163629884-ffbb60ed-2151-4f65-8521-1eb0f1905ee6.png)
 
 Foram executados 4 simulações de auto-arima com o coeficiente m=1 (anual), m=7 (diário), m=12 (mensal) e m=52 (semanal).
-Das quais obteve-se os parâmetros p,d,q abaixo:
+Das quais foram calculados os parâmetros p,d,q abaixo:
 
 m=1:
 - SARIMAX(3, 1, 2)
