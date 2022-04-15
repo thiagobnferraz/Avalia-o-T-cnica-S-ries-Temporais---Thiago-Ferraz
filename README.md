@@ -1,1 +1,1 @@
-# Avalia-o-T-cnica-S-ries-Temporais---Thiago-Ferraz
+
