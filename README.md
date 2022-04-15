@@ -60,6 +60,8 @@ Repetindo-se os passos anteriores para cada base de dados de continentes, foi po
 
 Pontos de melhora para esse projeto podem ser viabilizados com adição de mais bases de dados e informações relevantes, como por exemplo, feriados nos países, temporadas de festas, eventos esportivos (copa do mundo, olimpíadas, campeonatos de surf, etc), eventos de entretenimento (shows, festivais musicais, atrações turísticas), entre outros eventos relevantes no período.
 
+Com essas informações adicionais, a explicabilidade do modelo se torna mais tangível para as áreas de negócio que virão a consumir os insights decorrentes do algoritmo aplicado.
+
 Os modelos foram salvos em formato .pkl e estão disponíveis nesse diretório para download e reuso.
 
 
